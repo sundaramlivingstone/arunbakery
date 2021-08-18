@@ -1,0 +1,53 @@
+body{
+  background:#FCD8D4;
+
+  text-align: center;
+}
+.container1 {
+
+  background-size: cover;
+  padding-top: 24px;
+  height: 500px;
+
+}
+.logo{
+  /* text-align: center; */
+  width:450px;
+  height:400px;
+}
+.heading{
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  font-size: large;
+
+
+  padding: 44px;
+}
+.tesimg{
+  height: 300px;
+  width:350px;
+  border-radius: 100%;
+}
+.carousel-inner{
+  padding:46px;
+
+}
+.fotter{
+  background: black;
+}
+.containerfot{
+  padding:40px;
+}
+.col-sm-4 a{
+  text-decoration: none;
+  padding-top:24px;
+  color:black;
+}
+.button{
+  padding:40px;
+  height:200px;
+
+}
+.button a{
+  text-decoration: none;
+}
